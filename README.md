@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-assert-uint32-is-pow2/tags). For example,
+
+```javascript
 import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@v0.1.1-deno/mod.js';
 ```
 
@@ -74,7 +79,7 @@ bool = isPow2Uint32( 5 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@v0.1.1-deno/mod.js';
+import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@deno/mod.js';
 
 var i;
 
