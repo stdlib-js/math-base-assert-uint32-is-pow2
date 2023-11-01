@@ -40,8 +40,8 @@
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/math-base-assert-is-integer": "^0.1.0",
-    "@stdlib/math-base-special-log2": "^0.1.0",
+    "@stdlib/math-base-assert-is-integer": "^0.1.1",
+    "@stdlib/math-base-special-log2": "^0.1.1",
     "@stdlib/math-base-special-round": "^0.1.1",
     "@stdlib/number-float64-base-to-uint32": "^0.1.1",
     "@stdlib/random-base-randu": "^0.1.0",
