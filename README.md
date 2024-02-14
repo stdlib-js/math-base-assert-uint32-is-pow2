@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@esm/index.mjs';
+import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@v0.2.0-esm/index.mjs';
 ```
 
 #### isPow2Uint32( x )
@@ -79,7 +79,7 @@ bool = isPow2Uint32( 5 );
 <body>
 <script type="module">
 
-import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@esm/index.mjs';
+import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@v0.2.0-esm/index.mjs';
 
 var i;
 
