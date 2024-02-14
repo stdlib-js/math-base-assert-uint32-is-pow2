@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-uint32-is-pow2",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Test whether an unsigned integer is a power of 2.",
   "license": "Apache-2.0",
   "author": {
