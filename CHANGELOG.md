@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-27)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2de2781`](https://github.com/stdlib-js/stdlib/commit/2de2781ce971b1e03882955a7e22c2f188202546) - **chore:** update examples _(by Philipp Burckhardt)_
 -   [`4dcbec5`](https://github.com/stdlib-js/stdlib/commit/4dcbec5df397866495e475cc0ad46cc598ab163e) - **chore:** address commit comments for commit `4d0f11a` [(#6770)](https://github.com/stdlib-js/stdlib/pull/6770) _(by devshree-bhati)_
 -   [`4d0f11a`](https://github.com/stdlib-js/stdlib/commit/4d0f11a021200333b20632885427a8e269454283) - **bench:** update random value generation [(#6692)](https://github.com/stdlib-js/stdlib/pull/6692) _(by Harsh)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
@@ -38,10 +39,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Harsh
+-   Philipp Burckhardt
 -   devshree-bhati
 
 </section>
