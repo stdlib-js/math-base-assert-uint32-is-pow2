@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.1">
 
-## Unreleased (2025-08-08)
+## 0.3.1 (2026-01-28)
 
 <section class="bug-fixes">
 
@@ -36,8 +36,8 @@ This release closes the following issue:
 
 -   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - **fix:** add missing includes _(by Athan Reines)_
 -   [`2de2781`](https://github.com/stdlib-js/stdlib/commit/2de2781ce971b1e03882955a7e22c2f188202546) - **chore:** update examples _(by Philipp Burckhardt)_
--   [`4dcbec5`](https://github.com/stdlib-js/stdlib/commit/4dcbec5df397866495e475cc0ad46cc598ab163e) - **chore:** address commit comments for commit `4d0f11a` [(#6770)](https://github.com/stdlib-js/stdlib/pull/6770) _(by devshree-bhati)_
--   [`4d0f11a`](https://github.com/stdlib-js/stdlib/commit/4d0f11a021200333b20632885427a8e269454283) - **bench:** update random value generation [(#6692)](https://github.com/stdlib-js/stdlib/pull/6692) _(by Harsh)_
+-   [`4dcbec5`](https://github.com/stdlib-js/stdlib/commit/4dcbec5df397866495e475cc0ad46cc598ab163e) - **chore:** address commit comments for commit `4d0f11a` [(#6770)](https://github.com/stdlib-js/stdlib/pull/6770) _(by Devshree Bhati)_
+-   [`4d0f11a`](https://github.com/stdlib-js/stdlib/commit/4d0f11a021200333b20632885427a8e269454283) - **bench:** update random value generation [(#6692)](https://github.com/stdlib-js/stdlib/pull/6692) _(by Harsh Yadav)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
@@ -53,9 +53,9 @@ This release closes the following issue:
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Devshree Bhati
+-   Harsh Yadav
 -   Philipp Burckhardt
--   devshree-bhati
 
 </section>
 
