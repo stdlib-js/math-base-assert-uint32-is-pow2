@@ -45,7 +45,7 @@
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/boolean-ctor": "^0.2.2",
-    "@stdlib/math-base-assert-is-integer": "^0.2.5",
+    "@stdlib/math-base-assert-is-integer": "^0.2.6",
     "@stdlib/math-base-special-log2": "^0.3.0",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.2",
