@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-assert-uint32-is-pow2/tags). For example,
+
+```javascript
 import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@v0.3.2-esm/index.mjs';
 ```
 
@@ -79,7 +84,7 @@ bool = isPow2Uint32( 5 );
 <body>
 <script type="module">
 
-import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@v0.3.2-esm/index.mjs';
+import isPow2Uint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-uint32-is-pow2@esm/index.mjs';
 
 var i;
 
