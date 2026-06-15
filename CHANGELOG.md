@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-02)
+## Unreleased (2026-06-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`00cb1cb`](https://github.com/stdlib-js/stdlib/commit/00cb1cb3bc4d47706ba916d6c76c3155df1a040b) - **docs:** update descriptions [(#12854)](https://github.com/stdlib-js/stdlib/pull/12854) _(by Philipp Burckhardt)_
 -   [`2013317`](https://github.com/stdlib-js/stdlib/commit/2013317f82ec8e16f2ec14c8534df85863689738) - **chore:** add missing classification keywords in `math/base/assert` [(#12442)](https://github.com/stdlib-js/stdlib/pull/12442) _(by Philipp Burckhardt)_
 -   [`de6983f`](https://github.com/stdlib-js/stdlib/commit/de6983f8c2359024668e5b4b5e7f65eb472118ee) - **bench:** refactor to use string interpolation in `math/base/assert` [(#10195)](https://github.com/stdlib-js/stdlib/pull/10195) _(by Lokesh Ranjan)_
 
